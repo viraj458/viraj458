@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **MERN Stack** and **Flutter**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **virajmalaka94@gmail.com**
 
